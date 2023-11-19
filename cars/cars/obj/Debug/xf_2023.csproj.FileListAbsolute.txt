@@ -1,0 +1,7 @@
+C:\Users\geoze\source\repos\cars\cars\bin\Debug\cars.exe.config
+C:\Users\geoze\source\repos\cars\cars\bin\Debug\cars.exe
+C:\Users\geoze\source\repos\cars\cars\bin\Debug\cars.pdb
+C:\Users\geoze\source\repos\cars\cars\obj\Debug\xf_2023.csproj.AssemblyReference.cache
+C:\Users\geoze\source\repos\cars\cars\obj\Debug\xf_2023.csproj.CoreCompileInputs.cache
+C:\Users\geoze\source\repos\cars\cars\obj\Debug\cars.exe
+C:\Users\geoze\source\repos\cars\cars\obj\Debug\cars.pdb
